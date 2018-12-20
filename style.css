@@ -36,13 +36,13 @@ body {
   background-size: cover;
   /* background-position: center; */
   border: 2px solid #e5e5e5;
-  border-radius: 10px;
+  border-radius: 8px;
   margin: 25px 25px 25px 25px
 }
 
 section {
   border: 2px solid #e5e5e5;
-  border-radius: 10px;
+  border-radius: 8px;
   background-color: #f5f5f5;
   margin: 25px;
   padding: 25px;
